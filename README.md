@@ -1,0 +1,2 @@
+# argocd
+GitOps demo - ArgoCD
