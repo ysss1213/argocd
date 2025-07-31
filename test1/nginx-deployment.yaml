@@ -22,7 +22,7 @@ spec:
         version: "1"
     spec:
       containers:
-      - image: jimmy/nginx:v3
+      - image: nginx:stable
         name: nginx
         ports:
         - containerPort: 80
