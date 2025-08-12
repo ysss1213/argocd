@@ -14,6 +14,7 @@ spec:
       maxSurge: 1
       maxUnavailable: 1
     type: RollingUpdate
+  serviceAccountName: foo
   template:
     metadata:
       labels:
